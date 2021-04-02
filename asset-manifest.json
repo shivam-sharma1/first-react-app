@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shivam-sharma1/first-react-app/static/css/main.c6fda46d.chunk.css",
+    "main.js": "/shivam-sharma1/first-react-app/static/js/main.0dae1588.chunk.js",
+    "main.js.map": "/shivam-sharma1/first-react-app/static/js/main.0dae1588.chunk.js.map",
+    "runtime-main.js": "/shivam-sharma1/first-react-app/static/js/runtime-main.451d41ee.js",
+    "runtime-main.js.map": "/shivam-sharma1/first-react-app/static/js/runtime-main.451d41ee.js.map",
+    "static/js/2.bf7fbc82.chunk.js": "/shivam-sharma1/first-react-app/static/js/2.bf7fbc82.chunk.js",
+    "static/js/2.bf7fbc82.chunk.js.map": "/shivam-sharma1/first-react-app/static/js/2.bf7fbc82.chunk.js.map",
+    "index.html": "/shivam-sharma1/first-react-app/index.html",
+    "static/css/main.c6fda46d.chunk.css.map": "/shivam-sharma1/first-react-app/static/css/main.c6fda46d.chunk.css.map",
+    "static/js/2.bf7fbc82.chunk.js.LICENSE.txt": "/shivam-sharma1/first-react-app/static/js/2.bf7fbc82.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.451d41ee.js",
+    "static/js/2.bf7fbc82.chunk.js",
+    "static/css/main.c6fda46d.chunk.css",
+    "static/js/main.0dae1588.chunk.js"
+  ]
+}
